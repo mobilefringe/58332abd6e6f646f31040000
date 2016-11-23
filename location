@@ -34,7 +34,7 @@ Pleasant Hill, CA 94523
     
     function renderPage(){
         prefix = get_prefix();
-        var pages_json = prefix+ "/pages/greenvalley-location.json"
+        var pages_json = prefix+ "/pages/pleasanthill-location.json"
         $.getJSON(pages_json).done(function(data) {
             $('#mm_page_content').html(data.body);
         }).fail(function(jqXHR) {
