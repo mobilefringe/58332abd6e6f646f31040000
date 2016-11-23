@@ -12,7 +12,7 @@
             <p class="side_link">
                 12501 Seal Beach Blvd, Seal Beach, CA 90740
             </p>
-            <a class="main_btn block animated_btn" href="https://www.google.com/maps/dir//33.7832098,-118.0735618/@33.78321,-118.073562,14z?hl=en-US" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.com/maps?ll=37.946294,-122.06176&z=16&t=m&hl=en-US&gl=US&mapclient=embed&daddr=Downtown+Pleasant+Hill+60+Crescent+Dr+Pleasant+Hill,+CA+94523@37.9462943,-122.0617601" target="_blank" >Driving Direction</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
