@@ -74,7 +74,7 @@
                 <li><a href="/location">LOCATION</a></li>
                 <li><a href="#" id="mobile_dd">CENTER INFORMATION</a></li>
                 <!--<li class="hidden_now mobile_menu_dd"><a href="/pages/shopsatrossmoor-services">SERVICES</a></li>-->
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/shopsatrossmoor-contact-us">CONTACT</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/pleasanthill-contact-us">CONTACT</a></li>
             </ul>
         </div>
         <div class="row">
@@ -112,7 +112,7 @@
                         <a href="#" type="button" id="dropdownMenuCenterInfo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Center Information</a>
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
                             <!--<li><a href="/pages/shopsatrossmoor-services	">SERVICES</a></li>-->
-                            <li><a href="/pages/shopsatrossmoor-contact-us">CONTACT</a></li>
+                            <li><a href="/pages/pleasanthill-contact-us">CONTACT</a></li>
                         </ul>
                     </div>
                     <div class="clearfix"></div>
@@ -176,7 +176,7 @@
 Pleasant Hill, CA 94523
             </p>
             <p class="footer_text">
-                <a href="tel:925-279-0120">925-279-0120</a> | <a href="/pages/shopsatrossmoor-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:925-279-0120">925-279-0120</a> | <a href="/pages/pleasanthill-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
             <img src="//codecloud.cdn.speedyrails.net/sites/57f50a1b6e6f6426d2010000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt="">
             <p class="footer_text">
@@ -201,7 +201,7 @@ Pleasant Hill, CA 94523
 Pleasant Hill, CA 94523
                     </p>
                     <p class="footer_text">
-                <a href="tel:925-279-0120">925-279-0120</a> | <a href="/pages/shopsatrossmoor-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:925-279-0120">925-279-0120</a> | <a href="/pages/pleasanthill-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
                 </div>
             </div>
