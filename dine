@@ -127,6 +127,20 @@
          
        
         stores = stores.concat(s1)
+        stores = stores.concat(s2)
+        stores = stores.concat(s3)
+        stores = stores.concat(s4)
+        stores = stores.concat(s5)
+        stores = stores.concat(s6)
+        stores = stores.concat(s7)
+        stores = stores.concat(s8)
+        stores = stores.concat(s9)
+        stores = stores.concat(s10)
+        stores = stores.concat(s11)
+        stores = stores.concat(s12)
+        stores = stores.concat(s13)
+        
+        
      
         var newarr = [];
         var unique = {};
