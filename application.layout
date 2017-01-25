@@ -115,7 +115,9 @@
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
                             <!--<li><a href="/pages/shopsatrossmoor-services	">SERVICES</a></li>-->
                             <li><a href="/pages/pleasanthill-contact-us">CONTACT</a></li>
+                            
                         </ul>
+                        <a href="/location">Partners</a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
