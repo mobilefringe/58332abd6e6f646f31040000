@@ -48,6 +48,9 @@ $animation_color: #a8cc4b;
 .pleasanthill-privacy-policy{
     background-image: url(//codecloud.cdn.speedyrails.net/sites/58332abd6e6f646f31040000/image/jpeg/1483737490000/dph_1920x150_banner_privacy.jpg);
 }
+.pleasanthill-partners{
+    background-image: url(//codecloud.cdn.speedyrails.net/sites/58332abd6e6f646f31040000/image/jpeg/1483737490000/dph_1920x150_banner_privacy.jpg);
+}
 
 
 .mark{
@@ -60,7 +63,11 @@ $animation_color: #a8cc4b;
 }
 
 
-
+.main_logo {
+    max-width: 300px;
+    margin-top: 10px;
+    max-height: 100px;
+}
 
 
 
