@@ -101,7 +101,7 @@
                 published_promos.push(val)
             }
             if(val.promotionable_type == "Property") {
-                $().attr("src", "")
+                $(".store_link").attr("src", "")
             }
         });
         if (published_promos.length > 0){
