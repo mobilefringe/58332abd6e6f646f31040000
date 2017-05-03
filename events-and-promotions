@@ -105,7 +105,7 @@
             renderPromotions("#promos_container","#promos_template", published_promos);
             $('#no_promotions').hide();
             if(published_promos.promotionable_type == "Property") {
-                $(".store_link").attr("src", "")
+                $(".store_link").attr("href", "")
             }
         }
         else {
