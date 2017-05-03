@@ -102,7 +102,7 @@
             }
             if(val.promotionable_type == "Property") {
                 console.log("Yes!")
-                $(".store_link").attr("href", "/")
+                $("a.store_link").attr("href", "/")
             }
         });
         if (published_promos.length > 0){
