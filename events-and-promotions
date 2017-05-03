@@ -100,10 +100,6 @@
             if (today >= webDate) {
                 published_promos.push(val)
             }
-            if(val.promotionable_type == "Property") {
-                console.log("Yes!")
-                $("a.store_link").attr("href", "/")
-            }
         });
         if (published_promos.length > 0){
             renderPromotions("#promos_container","#promos_template", published_promos);
