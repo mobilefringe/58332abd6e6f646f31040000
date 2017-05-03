@@ -99,7 +99,6 @@
             $('#events_header').find('i').toggleClass('fa-chevron-down fa-chevron-up');
         }
         var promos = getPromotionsList().sortBy(function(o){ return o.start_date });
-        console.log(promos);
         var published_promos = [];
         $.each( promos , function( key, val ){
             today = moment();
@@ -111,7 +110,6 @@
         if (published_promos.length > 0){
             renderPromotions("#promos_container","#promos_template", published_promos);
             $('#no_promotions').hide();
-            
         }
         else {
             $('#promotions_header').click();
