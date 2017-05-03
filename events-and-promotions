@@ -104,7 +104,7 @@
         if (published_promos.length > 0){
             renderPromotions("#promos_container","#promos_template", published_promos);
             $('#no_promotions').hide();
-            if(val.promotionable_type == "Property") {
+            if(published_promos.promotionable_type == "Property") {
                 $(".store_link").attr("src", "")
             }
         }
