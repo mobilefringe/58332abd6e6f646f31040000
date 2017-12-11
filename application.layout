@@ -171,7 +171,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright <span id="current_year" class="current_year"></span> Downtown Pleasant Hill
+                &copy; Copyright <span id="current_year" class="current_year"></span> Downtown Pleasant Hill
             </p>
             <p class="footer_text">
                105 Crescent Drive, Pleasant Hill, CA 94523
@@ -187,7 +187,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright <span id="current_year" class="current_year"></span> Downtown Pleasant Hill
+                    &copy; Copyright <span id="current_year" class="current_year"></span> Downtown Pleasant Hill
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
