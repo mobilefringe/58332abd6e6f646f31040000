@@ -72,9 +72,9 @@
                 <li><a href="/location">LOCATION</a></li>
                 <li><a href="#" id="mobile_dd">CENTER INFORMATION</a></li>
                 <!--<li class="hidden_now mobile_menu_dd"><a href="/pages/shopsatrossmoor-services">SERVICES</a></li>-->
+                <li class="hidden_now mobile_menu_dd"><a href="/jobs">JOBS</a></li>
                 <li class="hidden_now mobile_menu_dd"><a href="/pages/pleasanthill-contact-us">CONTACT</a></li>
-                
-             <li class="hidden_now mobile_menu_dd"><a href="/pages/pleasanthill-partners">PARTNERS</a></li>    
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/pleasanthill-partners">PARTNERS</a></li>    
             </ul>
         </div>
         <div class="row">
