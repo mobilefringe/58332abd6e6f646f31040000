@@ -112,8 +112,9 @@
                         <a href="#" type="button" id="dropdownMenuCenterInfo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Center Information</a>
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
                             <!--<li><a href="/pages/shopsatrossmoor-services	">SERVICES</a></li>-->
+                            <li><a href="/jobs">JOBS</a></li>
                             <li><a href="/pages/pleasanthill-contact-us">CONTACT</a></li>
-                        <li><a href="/pages/pleasanthill-partners">PARTNERS</a></li>      
+                            <li><a href="/pages/pleasanthill-partners">PARTNERS</a></li>      
                         </ul>
                    
                     </div>
