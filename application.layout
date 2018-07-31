@@ -57,6 +57,9 @@
     
     <!-- Site data -->
     <script>
+        $.getJSON("//pleasanthill.mallmaverick.com/api/v4/pleasanthill/subcategories.json?bust=true").done(function(data){
+            
+        });
         setEndPoint('//pleasanthill.mallmaverick.com/api/v4/pleasanthill/all.json');
     </script>
 </head>
